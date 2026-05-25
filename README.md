@@ -7,7 +7,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/8544c28c-bd18-435f-8e2b-8d56758c6df2
+View your app in AI Studio: [https://ai.studio/apps/8544c28c-bd18-435f-8e2b-8d56758c6df2](https://omnitool-995881138429.asia-southeast1.run.app)
 
 ## Run Locally
 
